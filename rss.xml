@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+  <channel>
+    <link>http://www.ryantm.com/blog/</link>
+    <atom:link href='www.ryantm.com/blog/feed/' rel='self' type='application/rss+xml'>    </atom:link>
+    <title>RyanTM Blog</title>
+    <description>The best blog evar.</description>
+    <language>en-us</language>
+    <item>
+      <pubDate>Sun, 07 Sep 2008 11:45:03 -0500</pubDate>
+      <guid>http://www.ryantm.com/blog/2008-8-9-title2.html</guid>
+      <link>http://www.ryantm.com/blog/2008-8-9-title2.html</link>
+      <comments>http://www.ryantm.com/blog/2008-8-9-title2.html#comments</comments>
+      <author>ryan@ryantm.com (Ryan Mulligan)</author>
+      <title>The world is ugly</title>
+      <description>
+        <![CDATA[
+            Goodbye world
+          ]]>
+      </description>
+    </item>
+    <item>
+      <pubDate>Sun, 07 Sep 2008 11:44:52 -0500</pubDate>
+      <guid>http://www.ryantm.com/blog/2008-9-7-titlehere.html</guid>
+      <link>http://www.ryantm.com/blog/2008-9-7-titlehere.html</link>
+      <comments>http://www.ryantm.com/blog/2008-9-7-titlehere.html#comments</comments>
+      <author>ryan@ryantm.com (Ryan Mulligan)</author>
+      <title>The world is beautiful</title>
+      <description>
+        <![CDATA[
+            Hello World
+          ]]>
+      </description>
+    </item>
+  </channel>
+</rss>
